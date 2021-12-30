@@ -12,8 +12,6 @@ module TD::Types
       photo_and_video
       url
       chat_photo
-      call
-      missed_call
       video_note
       voice_and_video_note
       mention
